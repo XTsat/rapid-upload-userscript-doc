@@ -8,9 +8,9 @@ actions:
   - text: 安装
     link: /document/Install/关于脚本安装.md
     type: primary
-  - text: 使用
-    link: /Extensions/Guide/What is.md
-    type: secondary
+  # - text: 使用
+  #   link: /
+  #   type: secondary
 features:
   - title: 秒传脚本安装
     details: 此文档提供 Win/安卓 平台下的完整安装流程, 适用于无法正常安装和使用脚本的用户

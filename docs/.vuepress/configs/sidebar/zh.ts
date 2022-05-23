@@ -8,13 +8,6 @@ export const zh: SidebarConfig = {
       children: [
       ]
     },
-    {
-      text: '常见问题',
-      collapsible: true,
-      children: [
-        '/document/FAQ/FAQ.md',
-      ]
-    },
   ],
   
   '/document/': [
