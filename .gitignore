@@ -1,0 +1,6 @@
+/.history
+node_modules
+.temp
+.cache
+website
+dist
