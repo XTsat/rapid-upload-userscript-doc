@@ -31,25 +31,25 @@
 
 - 命令示例:
 
-```plain
+```plain :no-line-numbers
 u -p 1 -retry 100 "D:\download" "/"
 ```
 
 或:
 
-```plain
+```plain :no-line-numbers
 u --nosplit -retry 100 "D:\download" "/"
 ```
 
 (保证秒传生效, 单文件最大 1.9G, 超过则报错"413 Request Entity Too Large", 以下示例同理) #将 download 文件夹上传到网盘根目录
 
-```plain
+```plain :no-line-numbers
 u -p 1 -retry 100 "D:\download\test.7z" "/测试"
 ```
 
 \#将 test.7z 文件上传到网盘的"测试"文件夹内
 
-```plain
+```plain :no-line-numbers
 u -p 1 -retry 100 "D:\download" "D:\download\test.7z" "/测试/测试 2"
 ```
 

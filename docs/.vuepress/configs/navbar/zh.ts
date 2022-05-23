@@ -10,6 +10,19 @@ export const zh: NavbarConfig = [
     link: '/document/',
   },
   {
+    text: '作者',
+    children: [
+      {
+        text: '官方教程',
+        link: 'https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/',
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/mengzonefire'
+      },
+    ]
+  },
+  {
     text: '关于我',
     children: [
       {
