@@ -5,14 +5,14 @@ home: true
 heroText: 秒传链接提取脚本
 tagline: 度盘秒传脚本的相关文档
 actions:
-  - text: 安装脚本
-    link: /document/脚本安装/关于脚本安装.md
+  - text: 介绍
+    link: /document/简介/脚本说明.md
     type: primary
-  - text: 常见问题
-    link: /document/秒传链接生成/常见问题及解决方法.md
+  - text: 常见错误代码
+    link: /document/常见问题/错误代码.md
     type: secondary
   - text: 预防和谐
-    link: /document/预防和谐/度盘防和谐相关.md
+    link: /document/预防和谐/文件和谐.md
     type: primary
 features:
   - title: 秒传脚本安装

@@ -7,7 +7,7 @@ export const zh: NavbarConfig = [
   },
   {
     text: '指南',
-    link: '/document/',
+    link: '/document/简介/脚本说明.md',
   },
   {
     text: '作者',
@@ -17,8 +17,16 @@ export const zh: NavbarConfig = [
         link: 'https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/',
       },
       {
+        text: '秒传脚本',
+        link: 'https://github.com/mengzonefire/rapid-upload-userscript'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/mengzonefire'
+      },
+      {
+        text: '爱发电',
+        link: 'https://afdian.net/@mengzonefire'
       },
     ]
   },
