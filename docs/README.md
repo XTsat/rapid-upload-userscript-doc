@@ -6,7 +6,7 @@ heroText: 秒传链接提取脚本
 tagline: 度盘秒传脚本的相关文档
 actions:
   - text: 安装
-    link: /document/Install/关于脚本安装.md
+    link: /document/脚本安装/关于脚本安装.md
     type: primary
   # - text: 使用
   #   link: /
