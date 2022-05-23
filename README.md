@@ -4,7 +4,9 @@
 
 文档还在制作过程中，你可以提出更多的文档内容
 
-详细指南请前往文档链接:<https://xtsat.github.io/rapid-upload-userscript-doc/>
+详细文档请前往文档链接:<https://xtsat.github.io/rapid-upload-userscript-doc/>
+
+脚本仓库:<https://github.com/mengzonefire/rapid-upload-userscript>
 
 [![前往指南](/docs/.vuepress/public/logo/点击前往指南.svg#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
 [![前往指南](/docs/.vuepress/public/logo/点击前往指南%20黑.svg#gh-dark-mode-only )](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
