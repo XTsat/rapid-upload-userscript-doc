@@ -17,9 +17,9 @@ export const zh: SidebarConfig = {
     },
   ],
   
-  '/document/Install/': [
+  '/document/': [
     {
-      text: '秒传脚本安装教程',
+      text: '秒传脚本安装',
       collapsible: false,
       children: [
         '/document/Install/关于脚本安装.md',
@@ -28,10 +28,13 @@ export const zh: SidebarConfig = {
       ]
     },
     {
-      text: '常见问题',
-      collapsible: true,
+      text: '秒传链接生成',
+      collapsible: false,
       children: [
-        '/document/FAQ/FAQ.md',
+        '/document/link generation/秒传生成相关.md',
+        '/document/link generation/常见问题及解决方法.md',
+        '/document/link generation/文件和谐.md',
+        '/document/link generation/PCS-Go 客户端.md',
       ]
     },
   ],
