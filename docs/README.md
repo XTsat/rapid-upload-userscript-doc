@@ -5,12 +5,15 @@ home: true
 heroText: 秒传链接提取脚本
 tagline: 度盘秒传脚本的相关文档
 actions:
-  - text: 安装
+  - text: 安装脚本
     link: /document/脚本安装/关于脚本安装.md
     type: primary
-  # - text: 使用
-  #   link: /
-  #   type: secondary
+  - text: 常见问题
+    link: /document/秒传链接生成/常见问题及解决方法.md
+    type: secondary
+  - text: 预防和谐
+    link: /document/预防和谐/度盘防和谐相关.md
+    type: primary
 features:
   - title: 秒传脚本安装
     details: 此文档提供 Win/安卓 平台下的完整安装流程, 适用于无法正常安装和使用脚本的用户
