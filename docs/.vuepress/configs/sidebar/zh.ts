@@ -47,4 +47,10 @@ export const zh: SidebarConfig = {
       ]
     },
   ],
+
+  '/document/changelog/': [
+    '/document/changelog/更新日志.md',
+    '/document/changelog/待更新功能.md',
+    '/document/changelog/通知.md',
+  ],
 };
