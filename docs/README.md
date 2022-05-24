@@ -31,3 +31,11 @@ footerHtml: true
 
   [![rapidupload-userscript](https://img.shields.io/badge/Greasy%20Fork-%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-005200?style=flat-square&logo=tampermonkey)](https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
   [![rapid-upload-userscript](https://img.shields.io/badge/GitHub-%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-24292f?style=flat-square&logo=github)](https://github.com/mengzonefire/rapid-upload-userscript/raw/main/dist/%E7%A7%92%E4%BC%A0%E8%BF%9E%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
+
+---
+
+还没有脚本管理器？
+
+  [安装脚本管理器 @XTsat](https://xtsat.github.io/Browser-Guide/Extensions/recommend/Script%20Manager/Install%20Manager.html)
+
+  [如何安装用户脚本 @Greasy Fork](https://greasyfork.org/zh-CN/help/installing-user-scripts)
