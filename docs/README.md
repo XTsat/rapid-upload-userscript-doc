@@ -26,3 +26,8 @@ features:
 footer: <div>© 2022,By <a href="https://github.com/mengzonefire">mengzonefire</a></div><div>Built with VuePress by <a href="https://github.com/XTsat">晓同</a></div><div><a href="https://github.com/XTsat/rapid-upload-userscript-doc">如果觉得这个指南有用的话,可以点击这个链接去 Github 点个 Star⭐</a></div>
 footerHtml: true
 ---
+
+已经有脚本管理器？
+
+  [![rapidupload-userscript](https://img.shields.io/badge/Greasy%20Fork-%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-005200?style=flat-square&logo=tampermonkey)](https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
+  [![rapid-upload-userscript](https://img.shields.io/badge/GitHub-%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-24292f?style=flat-square&logo=github)](https://github.com/mengzonefire/rapid-upload-userscript/raw/main/dist/%E7%A7%92%E4%BC%A0%E8%BF%9E%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
