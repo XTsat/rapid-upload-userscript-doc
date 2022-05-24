@@ -30,6 +30,10 @@ export const zh: NavbarConfig = [
     text: '作者',
     children: [
       {
+        text: '脚本页面',
+        link: 'https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96',
+      },
+      {
         text: '官方教程',
         link: 'https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/',
       },
