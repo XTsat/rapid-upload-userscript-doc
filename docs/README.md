@@ -5,14 +5,14 @@ home: true
 heroText: 秒传链接提取脚本
 tagline: 度盘秒传脚本的相关文档
 actions:
-  - text: 介绍
+  - text: 安装脚本
+    link: https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js
+    type: secondary
+  - text: 帮助文档
     link: /document/简介/脚本说明.md
     type: primary
   - text: 常见错误代码
     link: /document/常见问题/错误代码.md
-    type: secondary
-  - text: 预防和谐
-    link: /document/预防和谐/文件和谐.md
     type: primary
 features:
   - title: 秒传脚本安装&使用
@@ -29,8 +29,8 @@ footerHtml: true
 
 已经有脚本管理器？
 
-  [![rapidupload-userscript](https://img.shields.io/badge/Greasy%20Fork-%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-005200?style=flat-square&logo=tampermonkey)](https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
-  [![rapid-upload-userscript](https://img.shields.io/badge/GitHub-%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-24292f?style=flat-square&logo=github)](https://github.com/mengzonefire/rapid-upload-userscript/raw/main/dist/%E7%A7%92%E4%BC%A0%E8%BF%9E%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
+  [![rapidupload-userscript](https://img.shields.io/badge/%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-005200?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
+  <!-- [![rapid-upload-userscript](https://img.shields.io/badge/GitHub-%E5%AE%89%E8%A3%85%20%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-24292f?style=for-the-badge&logo=github)](https://github.com/mengzonefire/rapid-upload-userscript/raw/main/dist/%E7%A7%92%E4%BC%A0%E8%BF%9E%E6%8E%A5%E6%8F%90%E5%8F%96.user.js) -->
 
 ---
 
