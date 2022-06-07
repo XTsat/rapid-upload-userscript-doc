@@ -23,7 +23,7 @@ features:
     details: 对度盘和谐的绕过与简单理解
   - title: 常见问题
     details: 常见问题和错误代码解析
-footer: <div>© 2022,By <a href="https://github.com/mengzonefire">mengzonefire</a></div><div>Built with VuePress by <a href="https://github.com/XTsat">晓同</a></div><div><a href="https://github.com/XTsat/rapid-upload-userscript-doc">如果觉得这个指南有用的话,可以点击这个链接去 Github 点个 Star⭐</a></div>
+footer: <div>© 2022,By <a href="https://github.com/mengzonefire">mengzonefire</a>,Built with VuePress By <a href="https://github.com/XTsat">晓同</a></div><div><a href="https://github.com/XTsat/rapid-upload-userscript-doc">如果觉得这个指南有用的话,可以点击这个链接去 Github 点个 Star ⭐</a></div><div>本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可</div>
 footerHtml: true
 ---
 
