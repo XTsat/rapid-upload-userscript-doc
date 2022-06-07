@@ -9,10 +9,10 @@ actions:
     link: https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js
     type: secondary
   - text: 帮助文档
-    link: /document/简介/脚本说明.md
+    link: /document/简介/脚本说明.html
     type: primary
   - text: 常见错误代码
-    link: /document/常见问题/错误代码.md
+    link: /document/常见问题/错误代码.html
     type: primary
 features:
   - title: 秒传脚本安装&使用
