@@ -8,7 +8,7 @@ export const zh: SidebarConfig = {
       children: [
         '/document/简介/脚本说明.md',
         '/document/简介/相关教程.md',
-        '/document/简介/支持秒传格式.md',
+        '/document/简介/秒传格式.md',
       ]
     },
     {
