@@ -3,6 +3,18 @@
 }
 
 //Greasy Fork 安装脚本样式
+#install-area {
+    margin-bottom: 1em
+}
+
+#install-area .install-help-link:focus,
+#install-area .install-help-link:hover,
+#install-area .install-link:focus,
+#install-area .install-link:hover {
+    transition: box-shadow .2s;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+}
+
 .install-help-link,
 .install-link,
 .install-link:active,
