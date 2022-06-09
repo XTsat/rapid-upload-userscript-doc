@@ -7,7 +7,7 @@ export const zh: NavbarConfig = [
   },
   {
     text: '文档',
-    link: '/document/简介/脚本说明.md',
+    link: '/document/info/脚本说明.md',
   },
   {
     text: '更新日志',

@@ -1,0 +1,71 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+//Greasy Fork 安装脚本样式
+.install-help-link,
+.install-link,
+.install-link:active,
+.install-link:hover,
+.install-link:visited {
+    transition: box-shadow .2s;
+    display: inline-block;
+    background-color: #005200;
+    padding: .5em 1em;
+    color: #fff;
+    text-decoration: none
+}
+
+.install-help-link,
+.install-help-link:active,
+.install-help-link:hover,
+.install-help-link:visited {
+    background-color: #1e971e;
+    color: #fff
+}
+
+// //油小猴 安装脚本样式
+// .install-box[data-v-0d120fa7] {
+//     margin-top: 20px;
+//     margin-bottom: 10px;
+//     display: flex
+// }
+
+// .install-box .install-help-link[data-v-0d120fa7]:focus,
+// .install-box .install-help-link[data-v-0d120fa7]:hover,
+// .install-box .install-link[data-v-0d120fa7]:focus,
+// .install-box .install-link[data-v-0d120fa7]:hover {
+//     transition: box-shadow .2s;
+//     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+// }
+
+// .install-help-link[data-v-0d120fa7],
+// .install-link[data-v-0d120fa7],
+// .install-link[data-v-0d120fa7]:active,
+// .install-link[data-v-0d120fa7]:hover,
+// .install-link[data-v-0d120fa7]:visited {
+//     transition: box-shadow .2s;
+//     display: inline-block;
+//     background-color: #005200;
+//     padding: .7rem 1.1rem;
+//     color: #fff;
+//     text-decoration: none;
+//     font-weight: 700
+// }
+
+// .install-help-link[data-v-0d120fa7],
+// .install-help-link[data-v-0d120fa7]:active,
+// .install-help-link[data-v-0d120fa7]:hover,
+// .install-help-link[data-v-0d120fa7]:visited {
+//     background-color: #1e971e;
+//     color: #fff
+// }
+
+
+// #install-area .install-help-link:focus,
+// #install-area .install-help-link:hover,
+// #install-area .install-link:focus,
+// #install-area .install-link:hover {
+//     transition: box-shadow .2s;
+//     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+// }

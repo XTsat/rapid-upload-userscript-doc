@@ -21,6 +21,11 @@
 ## 安装脚本 (手机端)
 
 * 使用 Kiwi 浏览器 访问 [脚本页](https://greasyfork.org/zh-CN/scripts/424574) 点击 "安装此脚本"([图例1](https://pic.rmb.bdstatic.com/bjh/a6f3f140754b8e8bdeaae39992749d1e.png)) (若弹出**下载或代码页**, 请检查上一步是否正确完成), 正确的安装界面如图例所示: [图例2](https://pic.rmb.bdstatic.com/bjh/9d3d54e9dbcdb5ce9db25a9d8ee12dfe.jpeg)
+  
+  <!-- Greasy Fork 样式安装脚本 -->
+    <div id="install-area">
+        <a class="install-link" data-script-name="秒传链接提取" data-script-namespace="moe.cangku.mengzonefire" href="https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js">安装秒传链接提取</a><a class="install-help-link" title="如何安装" rel="nofollow" href="/rapid-upload-userscript-doc/document/开始使用/关于脚本安装">?</a>
+    </div>
 
 ## 使用脚本 (手机端)
 

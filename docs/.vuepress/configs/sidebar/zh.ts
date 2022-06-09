@@ -6,19 +6,19 @@ export const zh: SidebarConfig = {
       text: '简单介绍',
       collapsible: false,
       children: [
-        '/document/简介/脚本说明.md',
-        '/document/简介/相关教程.md',
-        '/document/简介/秒传格式.md',
+        '/document/Info/脚本说明.md',
+        '/document/Info/相关教程.md',
+        '/document/Info/秒传格式.md',
       ]
     },
     {
       text: '脚本安装&使用',
       collapsible: false,
       children: [
-        '/document/开始使用/关于脚本安装.md',
-        '/document/开始使用/电脑版安装脚本.md',
-        '/document/开始使用/手机版安装脚本.md',
-        '/document/开始使用/多平台网页端.md',
+        '/document/Install/About.md',
+        '/document/Install/Windows.md',
+        '/document/Install/Android.md',
+        '/document/Install/Web.md',
       ]
     },
     {
@@ -43,8 +43,8 @@ export const zh: SidebarConfig = {
       text: '常见问题',
       collapsible: false,
       children: [
-        '/document/常见问题/常见问题.md',
-        '/document/常见问题/错误代码.md',
+        '/document/FAQ/常见问题.md',
+        '/document/FAQ/错误代码.md',
       ]
     },
   ],
