@@ -33,7 +33,7 @@ export default defineUserConfig({
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: '/logo/logo.png',
+        href: '/rapid-upload-userscript-doc/logo/logo.png',
       },
     ],
   ],
