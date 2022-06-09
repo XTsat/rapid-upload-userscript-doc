@@ -25,7 +25,7 @@ export const zh: SidebarConfig = {
       collapsible: false,
       children: [
         '/document/秒传链接生成/秒传生成相关.md',
-        '/document/秒传链接生成/自动秒传.md',
+        '/document/秒传链接生成/一键秒传.md',
         // '/document/秒传链接生成/PCS-Go 客户端.md',
       ]
     },
