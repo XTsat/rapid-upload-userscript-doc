@@ -7,7 +7,7 @@ export const zh: SidebarConfig = {
       collapsible: false,
       children: [
         '/document/Info/脚本说明.md',
-        '/document/Info/相关教程.md',
+        // '/document/Info/相关教程.md',
         '/document/Info/秒传格式.md',
       ]
     },
