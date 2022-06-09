@@ -6,19 +6,19 @@ export const zh: SidebarConfig = {
       text: '简单介绍',
       collapsible: false,
       children: [
-        '/document/info/脚本说明.md',
-        '/document/info/相关教程.md',
-        '/document/info/秒传格式.md',
+        '/document/Info/脚本说明.md',
+        '/document/Info/相关教程.md',
+        '/document/Info/秒传格式.md',
       ]
     },
     {
       text: '脚本安装&使用',
       collapsible: false,
       children: [
-        '/document/install/About.md',
-        '/document/install/Windows.md',
-        '/document/install/Android.md',
-        '/document/install/Web.md',
+        '/document/Install/About.md',
+        '/document/Install/Windows.md',
+        '/document/Install/Android.md',
+        '/document/Install/Web.md',
       ]
     },
     {

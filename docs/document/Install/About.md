@@ -20,7 +20,7 @@
 <a></a>
 <!-- Greasy Fork 样式安装脚本 -->
 <div id="install-area">
-    <a class="install-link" data-script-name="秒传链接提取" data-script-namespace="moe.cangku.mengzonefire" href="https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js">安装秒传链接提取</a><a class="install-help-link" title="如何安装" rel="nofollow" href="/rapid-upload-userscript-doc/document/install/About.html">?</a>
+    <a class="install-link" data-script-name="秒传链接提取" data-script-namespace="moe.cangku.mengzonefire" href="https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js">安装秒传链接提取</a><a class="install-help-link" title="如何安装" rel="nofollow" href="/rapid-upload-userscript-doc/document/Install/About.html">?</a>
 </div>
 
 <a rel="nofollow" href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96" target="_blank"><span style="color: #a42121;">脚本主页</span></a>
