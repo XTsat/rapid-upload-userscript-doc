@@ -1,5 +1,14 @@
 :root {
-    scroll-behavior: smooth;
+    // brand colors
+    --c-brand: #ffa200;
+    --c-brand-light: #ffbd09;
+}
+
+html.dark {
+    // brand colors
+    --c-brand: #ffb90e;
+    --c-brand-light: #ffd100;
+
 }
 
 //Greasy Fork 安装脚本样式

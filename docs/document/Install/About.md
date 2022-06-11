@@ -25,9 +25,9 @@
 
 <a rel="nofollow" href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96" target="_blank"><span style="color: #a42121;">脚本主页</span></a>
 ，
-<a rel="nofollow" href="https://github.com/mengzonefire/rapid-upload-userscript/issues" target="_blank"><span style="color: #670000;">访问作者的支持站点</span></a>
+<a rel="nofollow" href="https://github.com/mengzonefire/rapid-upload-userscript/issues" target="_blank"><span style="color: #f28484;">访问作者的支持站点</span></a>
 ，
-<a rel="nofollow" href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/feedback#post-discussion"><span style="color: #670000;">提问、发表评价</span></a>
+<a rel="nofollow" href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/feedback#post-discussion"><span style="color: #f28484;">提问、发表评价</span></a>
 
 
 <!-- 油小猴 样式安装脚本 -->
