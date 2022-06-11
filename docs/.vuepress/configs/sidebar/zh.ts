@@ -54,7 +54,6 @@ export const zh: SidebarConfig = {
       collapsible: false,
       children: [
         '/development/脚本更新日志.md',
-        '/development/更新说明.md',
         '/development/历史版本.md',
         '/development/开发计划.md',
         // '/development/通知.md',
