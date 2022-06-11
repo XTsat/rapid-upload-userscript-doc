@@ -10,21 +10,8 @@ export const zh: NavbarConfig = [
     link: '/document/info/脚本说明.md',
   },
   {
-    text: '更新日志',
-    children: [
-      {
-        text: '更新日志',
-        link: '/document/changelog/更新日志.md',
-      },
-      {
-        text: '待更新功能',
-        link: '/document/changelog/待更新功能.md'
-      },
-      {
-        text: '通知',
-        link: '/document/changelog/通知.md'
-      },
-    ]
+    text: '深入',
+    link: '/development/脚本更新日志.md',
   },
   {
     text: '作者',

@@ -48,9 +48,26 @@ export const zh: SidebarConfig = {
     },
   ],
 
-  '/document/changelog/': [
-    '/document/changelog/更新日志.md',
-    '/document/changelog/待更新功能.md',
-    '/document/changelog/通知.md',
+  '/development/': [
+    {
+      text: '开发日志',
+      collapsible: false,
+      children: [
+        '/development/脚本更新日志.md',
+        '/development/更新说明.md',
+        '/development/历史版本.md',
+        '/development/开发计划.md',
+        // '/development/通知.md',
+        '/development/网页端更新日志.md',
+      ]
+    },
+    {
+      text: '参与开发',
+      collapsible: false,
+      children: [
+        '/development/文档.md',
+      ]
+    },
+
   ],
 };
