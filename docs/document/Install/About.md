@@ -7,6 +7,7 @@
 - 教程仅为参考, 实际安装方案并不唯一
   - [Windows 端安装教程](Windows.md)
   - [Android 端安装教程](Android.md)
+  - [MacOS 端安装教程](MacOS.md)
   - [网页版使用教程](Web.md)
 
 ## 安装脚本管理器
