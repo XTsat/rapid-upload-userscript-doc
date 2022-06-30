@@ -17,6 +17,7 @@ export const zh: SidebarConfig = {
         '/document/Install/About.md',
         '/document/Install/Windows.md',
         '/document/Install/Android.md',
+        '/document/Install/MacOS.md',
         '/document/Install/Web.md',
       ]
     },
