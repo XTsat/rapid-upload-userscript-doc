@@ -6,7 +6,7 @@ heroText: 秒传链接提取脚本
 tagline: 度盘秒传脚本的相关文档
 actions:
   - text: 安装脚本
-    link: https://greasyfork.org/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/code/%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96.user.js
+    link: /document/Install/About.html
     type: secondary
   - text: 帮助文档
     link: /document/Info/脚本说明.html
