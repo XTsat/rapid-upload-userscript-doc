@@ -4,7 +4,7 @@
 
 网页版无需安装插件, 点开即用,  推荐无法安装插件的用户使用
 
-网页端网址：[载点1](https://rapidacg.gmgard.moe/) [载点2](https://mengzonefire.github.io/baidupan-rapidupload) [载点2](https://mengzonefire.code.misakanet.cn/baidupan-rapidupload)
+网页端网址：[载点1](https://rapidacg.gmgard.moe/) [载点2](https://mengzonefire.github.io/baidupan-rapidupload) [载点3](https://mengzonefire.code.misakanet.cn/baidupan-rapidupload)
 
 ## 常见问题
 
