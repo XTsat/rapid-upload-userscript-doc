@@ -15,83 +15,10 @@ export const zh: NavbarConfig = [
   },
   {
     text: '作者',
-    children: [
-      {
-        text: 'Greasy Fork',
-        link: 'https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96',
-      },
-      {
-        text: 'GitHub',
-        link: 'https://github.com/mengzonefire/rapid-upload-userscript'
-      },
-      {
-        text: 'mengzonefire',
-        link: 'https://github.com/mengzonefire'
-      },
-      {
-        text: '教程文档',
-        link: 'https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/',
-      },
-      {
-        text: '爱发电',
-        link: 'https://afdian.net/@mengzonefire'
-      },
-    ]
+    link: '/作者.md',
   },
   {
     text: '关于我',
-    children: [
-      {
-        text: '指南',
-        children: [
-          {
-            text: 'Steam',
-            link: 'https://xtsat.github.io/SteamGuide/'
-          },
-          {
-            text: '瓦特工具箱',
-            link: 'https://xtsat.github.io/SteamTools-Guide/'
-          },
-          {
-            text: '浏览器',
-            link: 'https://xtsat.github.io/Browser-Guide/'
-          },
-          {
-            text: 'Windows',
-            link: 'https://xtsat.github.io/Windows-Guide/'
-          },
-        ]
-      },
-      {
-        text: '脚本',
-        children: [
-          {
-            text: '秒传链接提取',
-            link: 'https://xtsat.github.io/rapid-upload-userscript-doc/'
-          },
-        ]
-      },
-      {
-        text: '其他平台',
-        children: [
-          {
-            text: 'BiliBili 📺',
-            link: 'https://space.bilibili.com/53283118'
-          },
-          {
-            text: 'Steam 🎮',
-            link: 'https://steamcommunity.com/id/XTxiaotong'
-          },
-          {
-            text: 'Playlist 🎵',
-            link: 'https://music.163.com/#/user/home?id=283588276'
-          },
-          {
-            text: 'GitHub',
-            link: 'https://github.com/XTsat'
-          },
-        ]
-      },
-    ]
+    link: '/关于我.md',
   },
 ]
