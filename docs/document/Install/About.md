@@ -1,6 +1,6 @@
 # 关于脚本安装
 
-此文档提供 Win/安卓 平台下的完整安装流程
+此文档提供 Win/安卓/Mac 平台下的完整安装流程
 
 \*其他平台和**无法安装脚本**的用户可尝试使用 **秒传网页版**: [载点1](https://rapidacg.gmgard.moe/) [载点2](https://mengzonefire.github.io/baidupan-rapidupload) [载点3](https://mengzonefire.code.misakanet.cn/baidupan-rapidupload)
 
