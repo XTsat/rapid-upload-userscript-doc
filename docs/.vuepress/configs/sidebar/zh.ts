@@ -46,6 +46,7 @@ export const zh: SidebarConfig = {
       children: [
         '/document/FAQ/常见问题.md',
         '/document/FAQ/错误代码.md',
+        '/document/FAQ/错误代码(网页工具).md',
       ]
     },
   ],
