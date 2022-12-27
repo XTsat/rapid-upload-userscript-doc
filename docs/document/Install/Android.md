@@ -6,6 +6,8 @@
 
 * [谷歌商店](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) (**可能无法访问**)
 
+* [apkpure](https://apkpure.com/cn/kiwi-browser-fast-quiet/com.kiwibrowser.browser) (**可能无法访问**)
+
 * 本地安装(旧版本): [蓝奏云](https://wwe.lanzoui.com/ilaSts35jwh)
 
 ## 安装 Tampermonkey 油猴插件 (手机端)
