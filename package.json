@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@vuepress/plugin-search": "^2.0.0-beta.45",
-    "vuepress": "^2.0.0-beta.45"
+    "@vuepress/plugin-search": "next",
+    "vuepress": "next"
   },
   "name": "rapid-upload-userscript-doc",
   "version": "1.0.0",

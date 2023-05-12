@@ -1,9 +1,10 @@
-import { defineUserConfig } from 'vuepress'
 import { navbar, sidebar } from './configs'
 
-const { defaultTheme } = require('@vuepress/theme-default')
+import { defineUserConfig } from 'vuepress'
 
-const { searchPlugin } = require('@vuepress/plugin-search')
+import { defaultTheme } from 'vuepress'
+
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
   base: '/rapid-upload-userscript-doc/',
@@ -96,7 +97,7 @@ export default defineUserConfig({
 
         // a11y
         openInNewWindow: '在新窗口打开',
-        toggleDarkMode: '切换夜间模式',
+        toggleColorMode: '切换夜间模式',
         toggleSidebar: '切换侧边栏',
       },
     },
@@ -113,11 +114,11 @@ export default defineUserConfig({
         // },
         '/': {
           placeholder: '搜索文档',
-          hotKeys: ['/']
         }
       },
     }),
   ],
+  
 
 }
 )
