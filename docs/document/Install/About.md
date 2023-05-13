@@ -30,6 +30,13 @@
 ，
 <a rel="nofollow" href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/feedback#post-discussion"><span style="color: #f28484;">提问、发表评价</span></a>
 
+:::danger 开发版本安装
+
+此版本为开发版，可能无法正常使用
+
+[安装秒传连接提取(github)](https://github.com/mengzonefire/rapid-upload-userscript/raw/dev/dist/%E7%A7%92%E4%BC%A0%E8%BF%9E%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
+
+:::
 
 <!-- 油小猴 样式安装脚本 -->
 <!--
