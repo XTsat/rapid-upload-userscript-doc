@@ -30,13 +30,22 @@
 ，
 <a rel="nofollow" href="https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96/feedback#post-discussion"><span style="color: #f28484;">提问、发表评价</span></a>
 
-:::danger 开发版本安装
+:::: warning 开发版本安装
 
-此版本为开发版，可能无法正常使用
+注意：此分支为dev分支, 正式版可用时请不要使用此分支
 
-[安装秒传连接提取(github)](https://github.com/mengzonefire/rapid-upload-userscript/raw/dev/dist/%E7%A7%92%E4%BC%A0%E8%BF%9E%E6%8E%A5%E6%8F%90%E5%8F%96.user.js)
+::: details 安装开发版即代表你认可使用脚本时可能出现的未知问题
+
+``
+Github 开发版安装时可能对网络环境要求较高
+``
+
+<div id="install-area">
+    <a class="install-link" data-script-name="秒传链接提取" data-script-namespace="moe.cangku.mengzonefire" href="https://github.com/mengzonefire/rapid-upload-userscript/raw/dev/dist/%E7%A7%92%E4%BC%A0%E8%BF%9E%E6%8E%A5%E6%8F%90%E5%8F%96.user.js">安装秒传链接提取（Github开发版）</a><a class="install-help-link" title="为什么会看到开发版" rel="nofollow" href="/rapid-upload-userscript-doc/document/Install/Dev.html">?</a>
+</div>
 
 :::
+::::
 
 <!-- 油小猴 样式安装脚本 -->
 <!--
