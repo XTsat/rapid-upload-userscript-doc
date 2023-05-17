@@ -6,47 +6,47 @@ export const zh: SidebarConfig = {
       text: '简单介绍',
       collapsible: false,
       children: [
-        '/document/Info/脚本说明.md',
-        '/document/Info/秒传格式.md',
+        '/document/Info/脚本说明.html',
+        '/document/Info/秒传格式.html',
       ]
     },
     {
       text: '脚本安装&使用',
       collapsible: false,
       children: [
-        '/document/Install/About.md',
-        '/document/Install/Windows.md',
-        '/document/Install/Android.md',
-        '/document/Install/MacOS.md',
-        '/document/Install/Web.md',
+        '/document/Install/About.html',
+        '/document/Install/Windows.html',
+        '/document/Install/Android.html',
+        '/document/Install/MacOS.html',
+        '/document/Install/Web.html',
       ]
     },
     {
       text: '秒传链接生成',
       collapsible: false,
       children: [
-        '/document/秒传链接生成/秒传生成相关.md',
-        '/document/秒传链接生成/一键秒传.md',
-        '/document/秒传链接生成/极速生成.md',
-        // '/document/秒传链接生成/PCS-Go 客户端.md',
+        '/document/秒传链接生成/秒传生成相关.html',
+        '/document/秒传链接生成/一键秒传.html',
+        '/document/秒传链接生成/极速生成.html',
+        // '/document/秒传链接生成/PCS-Go 客户端.html',
       ]
     },
     {
       text: '如何预防和谐',
       collapsible: false,
       children: [
-        '/document/预防和谐/文件和谐.md',
-        '/document/预防和谐/已知和谐原因.md',
-        '/document/预防和谐/度盘防和谐.md',
+        '/document/预防和谐/文件和谐.html',
+        '/document/预防和谐/已知和谐原因.html',
+        '/document/预防和谐/度盘防和谐.html',
       ]
     },
     {
       text: '常见问题',
       collapsible: false,
       children: [
-        '/document/FAQ/常见问题.md',
-        '/document/FAQ/错误代码.md',
-        '/document/FAQ/错误代码(网页工具).md',
+        '/document/FAQ/常见问题.html',
+        '/document/FAQ/错误代码.html',
+        '/document/FAQ/错误代码(网页工具).html',
       ]
     },
   ],
@@ -56,18 +56,18 @@ export const zh: SidebarConfig = {
       text: '开发日志',
       collapsible: false,
       children: [
-        '/development/脚本更新日志.md',
-        '/development/历史版本.md',
-        '/development/开发计划.md',
-        // '/development/通知.md',
-        '/development/网页端更新日志.md',
+        '/development/脚本更新日志.html',
+        '/development/历史版本.html',
+        '/development/开发计划.html',
+        // '/development/通知.html',
+        '/development/网页端更新日志.html',
       ]
     },
     {
       text: '参与开发',
       collapsible: false,
       children: [
-        '/development/文档开发.md',
+        '/development/文档开发.html',
       ]
     },
 
