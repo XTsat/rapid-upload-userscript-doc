@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-194f15b3","path":"/document/Install/Dev.html","title":"开发版脚本","lang":"简体中文","frontmatter":{},"headers":[],"git":{"updatedTime":1683942764000,"contributors":[{"name":"XTsat","email":"44708609+XTsat@users.noreply.github.com","commits":1}]},"filePathRelative":"document/Install/Dev.md"}');export{t as data};
