@@ -1,7 +1,7 @@
-import type { SidebarConfig } from '@vuepress/theme-default'
+import { sidebar } from "vuepress-theme-hope";
 
-export const zh: SidebarConfig = {
-  '/document/': [
+export const zhSidebar = sidebar({
+  "/": [
     {
       text: '简单介绍',
       collapsible: false,
@@ -53,23 +53,22 @@ export const zh: SidebarConfig = {
 
   '/development/': [
     {
-      text: '开发日志',
-      collapsible: false,
-      children: [
-        '/development/脚本更新日志.html',
-        '/development/历史版本.html',
-        '/development/开发计划.html',
-        // '/development/通知.html',
-        '/development/网页端更新日志.html',
-      ]
-    },
-    {
-      text: '参与开发',
-      collapsible: false,
-      children: [
-        '/development/文档开发.html',
-      ]
-    },
-
-  ],
-};
+    text: '开发日志',
+    collapsible: false,
+    children: [
+      '/development/脚本更新日志.html',
+      '/development/历史版本.html',
+      '/development/开发计划.html',
+      // '/development/通知.html',
+      '/development/网页端更新日志.html',
+    ]
+  },
+  {
+    text: '参与开发',
+    collapsible: false,
+    children: [
+      '/development/文档开发.html',
+    ]
+  },
+],
+});

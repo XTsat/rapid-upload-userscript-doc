@@ -39,4 +39,4 @@ footerHtml: true
   </div>
 
 - 还没有脚本管理器？
-  - [关于脚本安装](document/install/About.md)
+  - [关于脚本安装](document/install/About.html)

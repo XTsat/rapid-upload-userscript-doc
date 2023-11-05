@@ -1,6 +1,7 @@
-import type { NavbarConfig } from '@vuepress/theme-default'
+import { navbar } from "vuepress-theme-hope";
 
-export const zh: NavbarConfig = [
+export const zhNavbar = navbar([
+  "/",
   {
     text: '主页',
     link: '/'
@@ -21,4 +22,4 @@ export const zh: NavbarConfig = [
     text: '关于我',
     link: '/关于我.html',
   },
-]
+])
